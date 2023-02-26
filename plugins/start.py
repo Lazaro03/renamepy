@@ -53,7 +53,7 @@ async def start(client, message):
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://t.me/k2m_movies_series')
         ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/mRiderDM'),
+        InlineKeyboardButton("📝Admin-TG", url='https://t.me/Acckerman_offical'),
         InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/_acckerman_?igshid=ZDdkNTZiNTM=')
         ]
         ])
